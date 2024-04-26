@@ -11,5 +11,7 @@
 -|-|-
 f5m|[fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos)|25% [eagleoflqj](https://github.com/eagleoflqj)，25% [ksqsf](https://github.com/ksqsf)，25% [wengxt](https://github.com/wengxt)，15% [rime](https://github.com/rime)，10% [fcitx5-android](https://github.com/fcitx5-android)
 
+<div style="display: flex">
 <img src="assets/wechat.jpg" width="300px"/>
 <img src="assets/alipay.jpg" width="300px" />
+</div>
