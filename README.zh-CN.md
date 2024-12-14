@@ -20,3 +20,4 @@ f5m|[fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos)|35% [eagleoflq
 日期|项目代号|金额|赞助人
 -|-|-|-
 2024-11-19|f5m|50|C*
+2024-12-12|f5m|100|c*
