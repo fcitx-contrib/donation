@@ -10,14 +10,16 @@
 项目代号|项目|分配方案
 -|-|-
 f5m|[fcitx5-macos](https://github.com/fcitx-contrib/fcitx5-macos)|35% [eagleoflqj](https://github.com/eagleoflqj)，25% [ksqsf](https://github.com/ksqsf)，25% [wengxt](https://github.com/wengxt)，15% [rime](https://github.com/rime)
+f5j|[fcitx5-js](https://github.com/fcitx-contrib/fcitx5-js)|70% eagleoflqj, 20% wengxt, 10% rime
 
 <div style="display: flex">
 <img src="assets/wechat.jpg" width="300px"/>
-<img src="assets/alipay.jpg" width="300px" />
+<img src="assets/alipay.jpg" width="300px"/>
 </div>
 
 ## 清单
 日期|项目代号|金额|赞助人
 -|-|-|-
 2024-11-19|f5m|50|C*
-2024-12-12|f5m|100|c*
+2024-12-12|f5m|100|chen*
+2025-02-24|f5j|100|*成
