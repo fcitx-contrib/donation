@@ -32,3 +32,5 @@ f5h|[fcitx5-harmony](https://github.com/fcitx-contrib/fcitx5-harmony)|TBD，已�
 2025-07-23|f5h|A|200|*宽
 2025-07-31|f5m|W|44|千
 2025-08-25|-|A|50|*岩
+2025-10-01|-|W|20|1*1
+2025-10-06|-|W|200|*偉
